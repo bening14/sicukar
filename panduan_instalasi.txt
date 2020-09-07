@@ -1,0 +1,5 @@
+Langkah Instalasi
+===================
+1. taruh folder ke dalam folder htdocs (saya berasumsi anda sudah paham xampp atau sejenisnya)
+2. buat database db_sicukar di xampp/phpmyadmin, kemudian import db_sicukar yang ada di folder
+3. buka set.php , sesuaikan user, pass, dan db_name dengan database yang baru saja dibuat.
