@@ -1,9 +1,12 @@
 <?php
 //setting database
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db_name = "db_sicukar";
+$user = "u1039137_wk";
+$pass = "M@lang345";
+$db_name = "u1039137_sicukar";
+// $user = "root";
+// $pass = "";
+// $db_name = "db_sicukar";
 
 $mysqli = new mysqli($host, $user, $pass, $db_name);
 if ($mysqli->connect_error) {
